@@ -1,0 +1,32 @@
+<?php
+
+return [
+
+    "salesteams" => "Sales Teams",
+    "new" => "Create Sales Team",
+    "edit" => "Edit Sales Team",
+    "show" => "Sales Team Details",
+    "delete" => "Delete Sales Team",
+    "title" => "Sales Team",
+    "details" => "Team Details",
+    "salesteam" => "Sales Team",
+    "invoice_target"=> "Invoice Target",
+    "invoice_forecast"=> "Invoice Forecast",
+    "actual_invoice"=> "Actual Invoice (this month)",
+    "actual_invoices" => "List of Actual Invoice (this month)",
+    "team_members"=>"Team Members",
+    "quotations" => "Quotations",
+    "leads" => "Leads",
+    "opportunities" => "Opportunities",
+    "active" => "Active",
+    "notes" => "About Team",
+    "team_leader" => "Team leader",
+    "responsibility" => "Responsibility",
+    "create_salesteam" => "Create Sales Team",
+    "main_staff" => "Main Staff",
+    "staff_members" => "Staff Members",
+    "sales_team_id" => "Sales Team",
+    "banquet_manager" => "Banquet Manager",
+    'guest' => "Guests",
+    'commision' => "Commision",
+];
